@@ -1,0 +1,9 @@
+TODO lista
+Napišite PHP skriptu koja omogućuje korisnicima da upravljaju svojom osobnom todo listom.
+Skripta treba omogućiti korisnicima da dodaju nove zadatke, pregledaju postojeće i brišu ih
+po potrebi. Umjesto tradicionalne baze podataka, skripta treba koristiti JSON datoteku
+(tasks.json) za pohranu podataka o zadacima. Svaki zadatak treba imati jedinstveni ID i opis
+zadataka.
+Za sučelje, implementirajte jednostavan HTML obrazac za unos novih zadataka i gumb za
+brisanje pored svakog zadatka na listi. Nakon dodavanja ili brisanja zadatka, stranica bi se
+trebala automatski osvježiti kako bi prikazala ažuriranu listu.

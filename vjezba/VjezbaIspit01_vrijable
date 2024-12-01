@@ -1,0 +1,21 @@
+<?php
+$varint=45665;
+$varreal=1.25;
+$varstring="Automobil";
+$varbool=true;
+
+echo($varint);
+print ($varreal);
+print ($varstring);
+print($varbool);
+
+define('pibroj',3.14);
+
+print pibroj;
+
+$a=10;
+$b=&$a;
+
+echo $b;
+$a=20;
+echo $b;

@@ -1,0 +1,29 @@
+<?php
+$a=20;
+$b=40;
+$c="Matija";
+$d="Marjani";
+
+$zbroj=$a+$b;
+$razlika=$a-$b;
+$produkt=$a*$b;
+$difer=$a/$b;
+$modulo=$a%$b;
+echo $zbroj;
+echo $razlika;
+echo $produkt;
+echo $difer;
+echo $modulo;
+$f=$c." ".$d;
+echo $f;
+
+$a+=10;
+$b-=10;
+echo $a;
+echo $b;
+
+var_dump($a>$b);
+echo ++$a;
+echo --$b;
+
+

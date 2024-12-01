@@ -1,0 +1,4 @@
+Križić-Kružić
+Vaš zadatak je implementirati osnovnu verziju igre križić-kružić koristeći PHP i HTML. Igra bi
+trebala omogućiti dva igrača da igraju jedan protiv drugog na istom uređaju, izmjenjujući se u
+postavljanju svojih simbola (X ili O) na 3x3 ploči.

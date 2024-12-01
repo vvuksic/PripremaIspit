@@ -1,0 +1,32 @@
+[
+    {
+        "rijec": "maribor",
+        "brojslova": 7,
+        "brsugl": 4,
+        "brsamo": 3
+    },
+    {
+        "rijec": "\u017eeljko",
+        "brojslova": 7,
+        "brsugl": 5,
+        "brsamo": 2
+    },
+    {
+        "rijec": "hhhhhh",
+        "brojslova": 6,
+        "brsugl": 6,
+        "brsamo": 0
+    },
+    {
+        "rijec": "aaaa",
+        "brojslova": 4,
+        "brsugl": 0,
+        "brsamo": 4
+    },
+    {
+        "rijec": "kkkkkk",
+        "brojslova": 6,
+        "brsugl": 6,
+        "brsamo": 0
+    }
+]

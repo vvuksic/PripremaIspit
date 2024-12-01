@@ -1,0 +1,6 @@
+tečaj https://www.youtube.com/watch?v=GRqw0pBwewY&list=PL0eyrZgxdwhwwQQZA79OzYwl5ewA7HQih&index=2
+PHP KOD https://www.youtube.com/watch?v=GRqw0pBwewY&list=PL0eyrZgxdwhwwQQZA79OzYwl5ewA7HQih&index=2
+
+VJEŽBE https://exercism.org/tracks/php
+
+Sortiranje algoritam - https://www.hackerearth.com/practice/algorithms/sorting/merge-sort/visualize/ (bogosort - rendom dok ne pogodi vrijednost)

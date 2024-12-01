@@ -1,0 +1,30 @@
+git branch -m master main - Rename master to main
+git checkout dev - prebacuje se u granu dev
+git checkout -b dev Kreira i pozicionira se u dev
+
+kad mergamo promjene moramo biti pozicionirani u granu u koju nešto mergamo
+
+npr: pozicioniramo se u main
+git merge dev
+
+Ako imamo konflikt moramo ga razriješiti i nakon toga u grani u kojoj smo radili merge napraviti commit promjena
+
+
+git remote add origin git@github.com:vvuksic/git-branches.git
+git remote -v
+
+prvo prebaciti main branch, prebaciti se u main
+git push -u origin main uspostavljenje veze i push promjena (ne može samo git push, ako grana ne postoji na udaljenom repo.
+
+
+Za klonirati repozitorij
+git clone + link koji smo kopirali
+
+
+Appache konfiguracijska datoteka
+
+\etc\apache2\
+
+dodati stranicu na var/www/html/ParcijalniIspiti
+etc/apache2/sites-available/defcd ault
+sudo service apache2 restart
