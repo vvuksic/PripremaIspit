@@ -1,0 +1,18 @@
+{
+    "name": "tkescec/vjezba",
+    "type": "project",
+    "require-dev": {
+        "phpunit/phpunit": "^11.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Tkescec\\Vjezba\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tomislav Kešcec",
+            "email": "tkescec@algebra.hr"
+        }
+    ]
+}
